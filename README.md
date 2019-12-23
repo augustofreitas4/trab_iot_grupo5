@@ -9,6 +9,8 @@ O código main.c é utilizado para executar as funcionalidades da ESP 32. O cód
 ### Node_red.json
 O arquivo node_red.json é referente ao código do fluxo utilizado no node red e também gera o bot do Telegram. 
 
+
+
 ## Instruções Raspberry
 
 1 - Primeiramente é necessário a instalação de dois softwares na raspberry, a qual pode possuir qualquer sistema operacional. O primeiro deles é o node-red cuja instalação e execução depende do Nodejs e npm. Tendo os dois instalados basta executar o comando para a instalação:
@@ -27,6 +29,7 @@ Para o funcionamento correto de todo o projeto a Raspberry deve possuir o endere
 	Em seguida para carregamento do fluxo, é necessário clicar em Import, no mesmo menu usado anteriormente e selecionar o arquivo node_red.json. Com isso estarão carregados os flows de controle da interface e também o do chatBot. 
 
 5 - Em seguida basta clicar em Deploy, para tudo estar funcional. Para o uso do chatBot a raspberry necessita de uma conexão com a internet. O acesso acontece através do link: t.me/controle_luzes_bot . 
+
 
 
 
