@@ -3,13 +3,13 @@
 
 ## Arquivos
 
-### Main.c
+### main.c
 O código main.c é utilizado para executar as funcionalidades da ESP 32. O código está descrito em detalhes no relatório na seção ESP 32
  
-### Node_red.json
+### node_red.json
 O arquivo node_red.json é referente ao código do fluxo utilizado no node red e também gera o bot do Telegram. 
 
-### Relatório Projeto.pdf
+### relatorio.pdf
 O relatório contém a arquitetura do projeto, quais escolhas fizemos, descrição de passos de instalação, imagens e modelos
 
 
