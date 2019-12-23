@@ -29,7 +29,7 @@ const char* BROKER_MQTT = "192.168.0.100"; //URL do broker MQTT que se deseja ut
 int BROKER_PORT = 1883; // Porta do Broker MQTT
 int status_luz1;
 
- 
+  
 WiFiClient espClient; // Cria o objeto espClient
 PubSubClient MQTT(espClient); // Instancia o Cliente MQTT passando o objeto espClient
 
