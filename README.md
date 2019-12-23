@@ -9,6 +9,8 @@ O código main.c é utilizado para executar as funcionalidades da ESP 32. O cód
 ### Node_red.json
 O arquivo node_red.json é referente ao código do fluxo utilizado no node red e também gera o bot do Telegram. 
 
+### Relatório Projeto.pdf
+O relatório contém a arquitetura do projeto, quais escolhas fizemos, descrição de passos de instalação, imagens e modelos
 
 
 ## Instruções Raspberry
